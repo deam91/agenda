@@ -1,4 +1,4 @@
-# MyCv
+# Agenda
 
 Demo project using NodeJS library Agenda for schedule background tasks. This project was generated with [Node.js] version 10.16.0.
 
