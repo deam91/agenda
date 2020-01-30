@@ -17,7 +17,7 @@ function getUser() {
 }
 
 describe('Get users tests', () => {
-    it('Get a users', () => {
+    it('Get users', () => {
         request.get(`http://localhost:3000/start`,res => {
             //console.log(res);
             expect(res.statusCode).to.equal(200);

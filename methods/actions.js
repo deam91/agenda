@@ -24,7 +24,7 @@ var functions = {
             done();
         });
         agenda.on('ready', () => {
-            agenda.every('one minute', 'save user', {domain: 'asd.com'});
+            agenda.every('10 seconds', 'save user', {domain: 'asd.com'});
             agenda.start();
             agenda.now('save user', {domain: 'asd.com'});
             res.status(200).send("scheduled..");
