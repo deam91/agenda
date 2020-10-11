@@ -1,6 +1,6 @@
 # Agenda
 
-Demo project using NodeJS library Agenda for schedule background tasks. This project was generated with [Node.js] version 10.16.0.
+Demo project using NodeJS library Agenda for schedule background tasks. This project was generated with [Node.js] version 14.0.0.
 
 ## Database
 
