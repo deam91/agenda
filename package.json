@@ -30,7 +30,7 @@
     "mysql": "^2.18.1",
     "nock": "^10.0.6",
     "node-poplib-gowhich": "^1.0.2",
-    "nodemailer": "^6.4.13",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "sequelize": "^6.3.5",
