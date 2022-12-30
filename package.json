@@ -22,7 +22,7 @@
     "face-recognition": "^0.9.4",
     "inbox": "latest",
     "jsonwebtoken": "latest",
-    "mocha": "^6.2.3",
+    "mocha": "^10.2.0",
     "mongoose": "^5.10.9",
     "mongoose-autopopulate": "^0.9.1",
     "morgan": "^1.10.0",
